@@ -19,7 +19,7 @@
 }
 
 .logo{
-    background-image: url("/Amazon/logo.jpg");
+    background-image: url("logo.jpg");
     background-size: cover;
     height:50px;
     width:100%;
